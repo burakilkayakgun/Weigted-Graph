@@ -1,6 +1,6 @@
 # Weigted Graph
 
-Please check out weigtedGraph.pdf for description of the project.
+Please check out WeigtedGraph.pdf for description of the project.
 
 How to compile
 In a terminal, call commands:
